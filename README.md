@@ -23,4 +23,3 @@ While developing the chatbot, I learned about text preprocessing, natural langua
 OUTPUT:
 !image(https://github.com/KasturiGhadi/AI_CHATBOT_WITH_NLP-Spacy-/blob/330aa0436cba98e884e3e974b263b885289323d7/Screenshot%202025-07-22%20200018Chatbot.png)
 !image(https://github.com/KasturiGhadi/AI_CHATBOT_WITH_NLP-Spacy-/blob/95d497e1d51b77c506dc2acf2b0b8f88db4c45d5/Screenshot%202025-07-22%20200103Chatbot1.png)
-![image alt](https://github.com/KasturiGhadi/AI_CHATBOT_WITH_NLP-Spacy-/blob/330aa0436cba98e884e3e974b263b885289323d7/Screenshot%202025-07-22%20200018Chatbot.png)
